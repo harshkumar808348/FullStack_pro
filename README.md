@@ -7,6 +7,8 @@
 **A modern MERN stack application for property listing, search, and booking**
 
 ![Homyz Banner](https://github.com/Ananya01Agrawal/Real-estate-Booking-Website/assets/99130567/9dce86bd-771c-493a-821f-bce92039c688)
+![Login](https://github.com/harshkumar808348/FullStack_pro/blob/26a06e027f05cb7bfc41d2bb7250fe9cef8ba599/Screenshot%202025-11-28%20025054.png)
+![Home](https://github.com/harshkumar808348/FullStack_pro/blob/26a06e027f05cb7bfc41d2bb7250fe9cef8ba599/Screenshot%202025-11-28%20024513.png)
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
